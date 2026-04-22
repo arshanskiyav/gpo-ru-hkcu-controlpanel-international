@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+    <RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}">
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" uid="{3B07B911-FFAF-4358-ACFD-35E03DD85F7E}" changed="2026-04-10 11:25:24" image="7" status="Nation" name="Nation">
+		<Properties name="Nation" value="203" type="REG_SZ" key="Control Panel\International\Geo" hive="HKEY_CURRENT_USER" default="0" displayDecimal="0" action="U"/>
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" uid="{DBF85849-56C1-49C8-B33D-A6575B2E4902}" changed="2026-04-10 11:26:01" image="7" status="Name" name="Name">
+		<Properties name="Name" value="RU" type="REG_SZ" key="Control Panel\International\Geo" hive="HKEY_CURRENT_USER" default="0" displayDecimal="0" action="U"/>
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="Locale" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="Locale" default="0" type="REG_SZ" displayDecimal="0" value="00000419" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="LocaleName" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="LocaleName" default="0" type="REG_SZ" displayDecimal="0" value="ru-RU" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="s1159" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="s1159" default="0" type="REG_SZ" displayDecimal="0" value="" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="s2359" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="s2359" default="0" type="REG_SZ" displayDecimal="0" value="" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sCurrency" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sCurrency" default="0" type="REG_SZ" displayDecimal="0" value="₽" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sDate" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sDate" default="0" type="REG_SZ" displayDecimal="0" value="." />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sDecimal" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sDecimal" default="0" type="REG_SZ" displayDecimal="0" value="," />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sGrouping" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sGrouping" default="0" type="REG_SZ" displayDecimal="0" value="3;0" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sLanguage" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sLanguage" default="0" type="REG_SZ" displayDecimal="0" value="RUS" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sList" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sList" default="0" type="REG_SZ" displayDecimal="0" value=";" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sLongDate" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sLongDate" default="0" type="REG_SZ" displayDecimal="0" value="d MMMM yyyy 'г.'" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sMonDecimalSep" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sMonDecimalSep" default="0" type="REG_SZ" displayDecimal="0" value="," />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sMonGrouping" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sMonGrouping" default="0" type="REG_SZ" displayDecimal="0" value="3;0" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sMonThousandSep" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sMonThousandSep" default="0" type="REG_SZ" displayDecimal="0" value=" " />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sNativeDigits" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sNativeDigits" default="0" type="REG_SZ" displayDecimal="0" value="0123456789" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sNegativeSign" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sNegativeSign" default="0" type="REG_SZ" displayDecimal="0" value="-" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sPositiveSign" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sPositiveSign" default="0" type="REG_SZ" displayDecimal="0" value="" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sShortDate" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sShortDate" default="0" type="REG_SZ" displayDecimal="0" value="dd.MM.yyyy" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sThousand" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sThousand" default="0" type="REG_SZ" displayDecimal="0" value=" " />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sTime" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sTime" default="0" type="REG_SZ" displayDecimal="0" value=":" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sTimeFormat" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sTimeFormat" default="0" type="REG_SZ" displayDecimal="0" value="H:mm:ss" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sShortTime" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sShortTime" default="0" type="REG_SZ" displayDecimal="0" value="H:mm" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="sYearMonth" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="sYearMonth" default="0" type="REG_SZ" displayDecimal="0" value="MMMM yyyy" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iCalendarType" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iCalendarType" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iCountry" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iCountry" default="0" type="REG_SZ" displayDecimal="0" value="7" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iCurrDigits" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iCurrDigits" default="0" type="REG_SZ" displayDecimal="0" value="2" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iCurrency" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iCurrency" default="0" type="REG_SZ" displayDecimal="0" value="3" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iDate" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iDate" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iDigits" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iDigits" default="0" type="REG_SZ" displayDecimal="0" value="2" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="NumShape" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="NumShape" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iFirstDayOfWeek" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iFirstDayOfWeek" default="0" type="REG_SZ" displayDecimal="0" value="0" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iFirstWeekOfYear" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iFirstWeekOfYear" default="0" type="REG_SZ" displayDecimal="0" value="2" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iLZero" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iLZero" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iMeasure" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iMeasure" default="0" type="REG_SZ" displayDecimal="0" value="0" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iNegCurr" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iNegCurr" default="0" type="REG_SZ" displayDecimal="0" value="8" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iNegNumber" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iNegNumber" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iPaperSize" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iPaperSize" default="0" type="REG_SZ" displayDecimal="0" value="9" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iTime" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iTime" default="0" type="REG_SZ" displayDecimal="0" value="1" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iTimePrefix" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iTimePrefix" default="0" type="REG_SZ" displayDecimal="0" value="0" />
+      </Registry>
+      <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="iTLZero" descr="Imported Reg File" image="7">
+        <Properties action="U" hive="HKEY_CURRENT_USER" key="Control Panel\International" name="iTLZero" default="0" type="REG_SZ" displayDecimal="0" value="0" />
+      </Registry>
+    </RegistrySettings>
