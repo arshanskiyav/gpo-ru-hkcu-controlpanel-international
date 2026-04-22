@@ -1,5 +1,6 @@
 <img width="1653" height="662" alt="image" src="https://github.com/user-attachments/assets/7aa0ecbc-4050-41b1-8f2d-545f63c3ba1c" />
 
+
 The list of items includes:
 - HKEY_CURRENT_USER\Control Panel\International\Geo\Nation
 - HKEY_CURRENT_USER\Control Panel\International\Geo\Name
@@ -43,5 +44,7 @@ The list of items includes:
 - HKEY_CURRENT_USER\Control Panel\International\iTime
 - HKEY_CURRENT_USER\Control Panel\International\iTimePrefix
 - HKEY_CURRENT_USER\Control Panel\International\iTLZero
+
+These are preferences for the RU region. You can change values after import.
 
 To install you need to copy the file and paste it into the preferences area or drag and drop the XML file.
