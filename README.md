@@ -48,3 +48,7 @@ The list of items includes:
 These are preferences for the RU region. You can change values after import.
 
 To install you need to copy the file and paste it into the preferences area or drag and drop the XML file.
+
+
+**NOTE!**
+The "Synchronize Language Settings" task (\Microsoft\Windows\International) may change these settings with a delay (15 seconds) after the user logs on.
